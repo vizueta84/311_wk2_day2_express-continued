@@ -25,7 +25,7 @@ A web page has been created for us. Our job is to build the server.
 
 ### Create express routes to get all things
 
-* Between lines 2 and 3, require the data for from the following .js files:
+* Between lines 2 and 3, require the data from the following .js files:
   * /data/contacts
   * /data/vehicles
   * /data/comments
